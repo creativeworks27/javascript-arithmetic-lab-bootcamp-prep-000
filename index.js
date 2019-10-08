@@ -34,9 +34,8 @@ function makeInt(n) {
 function preserveDecimal(n) {
   return parseFloat(n);
 }
-=======
+
 function addFive(number) {
   number += 5;
 }
 console.log(number);
->>>>>>> 460f24d25a8424b8ae4ed0ddca9afe138bedf342
